@@ -1,0 +1,8 @@
+streamlit==1.20.0      # Streamlit app library
+pandas==1.5.3          # For data manipulation and CSV processing
+numpy==1.23.3          # For numerical operations
+matplotlib==3.6.2      # For plotting graphs
+boto3==1.26.13         # AWS SDK for Python
+colorama==0.4.6        # For terminal color support (optional, for local development)
+bcrypt==4.0.1          # For password hashing and checking
+s3fs
