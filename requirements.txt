@@ -2,10 +2,14 @@ streamlit==1.20.0
 pandas<2
 numpy<2
 matplotlib==3.6.2
-boto3==1.26.13
-botocore==1.29.13
+
 colorama==0.4.6
 bcrypt==4.0.1
-s3fs>=2023.10.0,<2024.0.0
+
 setuptools
 pip>=24.0
+botocore
+boto3
+aiobotocore
+s3fs
+
