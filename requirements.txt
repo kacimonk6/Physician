@@ -13,4 +13,3 @@ aiobotocore
 s3fs
 streamlit-option-menu
 pyserial
-beepy  # Optional, for cross-platform beep
