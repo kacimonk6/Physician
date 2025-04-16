@@ -2,14 +2,15 @@ streamlit==1.20.0
 pandas<2
 numpy<2
 matplotlib==3.6.2
-
+scipy
 colorama==0.4.6
 bcrypt==4.0.1
-
 setuptools
 pip>=24.0
 botocore
 boto3
 aiobotocore
 s3fs
-
+streamlit-option-menu
+pyserial
+beepy  # Optional, for cross-platform beep
